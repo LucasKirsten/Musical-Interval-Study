@@ -1,13 +1,13 @@
-# Musical-Interval-Study (Estudo dos intervalos musicais)
-Interface developed to the study of musical intervals in Tkinter. The student can study the intervals by identifying the note (or interval) for the shown interval (or note).
+# Estudo dos intervalos musicais (Musical-Interval-Study)
+Interface desenvolvida para o estudo dos intervalos musicais em Tkinter. O aluno pode estudar os intervalos identificando a nota (ou intervalo) para um dado intervalo (ou nota).
 
->Interface desenvolvida para o estudo dos intervalos musicais em Tkinter. O aluno pode estudar os intervalos identificando a nota (ou intervalo) para um dado intervalo (ou nota).
+>Interface developed to the study of musical intervals in Tkinter. The student can study the intervals by identifying the note (or interval) for the shown interval (or note).
 
-## Prerequisites (Pré-requisitos)
+## Pré-requisitos (Prerequisites)
 
 - Python 2.7
 
-## User Guide (Guia para o usuário)
+## Guia para o usuário (User guide)
 
 Estando o python 2.7 instalado, o programa pode ser inicilizado clicando duas vezes sobre o **estudo_intervalos.py**. A seguinte janela será aberta:
 
